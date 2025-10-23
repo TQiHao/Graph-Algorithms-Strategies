@@ -1,8 +1,5 @@
 # Graph-Algorithms-Strategies
 
-## Assignment Details
-- **Course**: CSCI203 Algorithms and Data Structures  
-
 ## Contents
 ### Algorithm Design Topics (100 marks)
 - **Question 1**: Graph Representations (30 marks)
@@ -30,4 +27,4 @@
 - Mathematical Proofs
 
 ## Author
-Toh Qi Hao - CSCI203 Assignment 3
+Toh Qi Hao
